@@ -1,11 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="aff50af4-0918-45ba-9aaf-808301880e11" name="Default" comment="" />
+    <list default="true" id="aff50af4-0918-45ba-9aaf-808301880e11" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/game/entities/SquishKitten.js" afterPath="$PROJECT_DIR$/lib/game/entities/SquishKitten.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/game/levels/level1.js" afterPath="$PROJECT_DIR$/lib/game/levels/level1.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/game/levels/level2.js" afterPath="$PROJECT_DIR$/lib/game/levels/level2.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/game/levels/level3.js" afterPath="$PROJECT_DIR$/lib/game/levels/level3.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/game/levels/level4.js" afterPath="$PROJECT_DIR$/lib/game/levels/level4.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/game/levels/level5.js" afterPath="$PROJECT_DIR$/lib/game/levels/level5.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="HTML5_SquishyCat.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="aff50af4-0918-45ba-9aaf-808301880e11" time="1372799683688" ignored="false" />
-    <file path="/SquishKitten.js" changelist="aff50af4-0918-45ba-9aaf-808301880e11" time="1372795008596" ignored="false" />
+    <file path="/Dummy.txt" changelist="aff50af4-0918-45ba-9aaf-808301880e11" time="1372801696894" ignored="false" />
+    <file path="/SquishKitten.js" changelist="aff50af4-0918-45ba-9aaf-808301880e11" time="1372801839942" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,25 +45,25 @@
       <file leaf-file-name="main.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lib/game/main.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="32" column="29" selection-start="628" selection-end="632" vertical-scroll-proportion="-11.576923">
+            <state line="32" column="29" selection-start="628" selection-end="632" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SquishKitten.js" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="SquishKitten.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/lib/game/entities/SquishKitten.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="59" column="137" selection-start="1594" selection-end="1594" vertical-scroll-proportion="0.0">
+            <state line="233" column="142" selection-start="9450" selection-end="9450" vertical-scroll-proportion="0.12809473">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SpringFloor.js" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="SpringFloor.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lib/game/entities/SpringFloor.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="22" column="7" selection-start="491" selection-end="491" vertical-scroll-proportion="0.35522068">
+            <state line="23" column="10" selection-start="514" selection-end="514" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -96,8 +104,8 @@
         <option value="$PROJECT_DIR$/lib/game/entities/GuideDot.js" />
         <option value="$PROJECT_DIR$/lib/game/levels/StageSelect.js" />
         <option value="$PROJECT_DIR$/lib/game/main.js" />
-        <option value="$PROJECT_DIR$/lib/game/entities/SquishKitten.js" />
         <option value="$PROJECT_DIR$/lib/game/entities/SpringFloor.js" />
+        <option value="$PROJECT_DIR$/lib/game/entities/SquishKitten.js" />
       </list>
     </option>
   </component>
@@ -449,21 +457,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/game/main.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="32" column="29" selection-start="628" selection-end="632" vertical-scroll-proportion="-11.576923">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/game/entities/SquishKitten.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="59" column="137" selection-start="1594" selection-end="1594" vertical-scroll-proportion="0.0">
+        <state line="32" column="29" selection-start="628" selection-end="632" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/game/entities/SpringFloor.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="7" selection-start="491" selection-end="491" vertical-scroll-proportion="0.35522068">
+        <state line="23" column="10" selection-start="514" selection-end="514" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/game/entities/SquishKitten.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="233" column="142" selection-start="9450" selection-end="9450" vertical-scroll-proportion="0.12809473">
           <folding />
         </state>
       </provider>
