@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="aff50af4-0918-45ba-9aaf-808301880e11" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/game/entities/SquishKitten.js" afterPath="$PROJECT_DIR$/lib/game/entities/SquishKitten.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/game/levels/StageSelect.js" afterPath="$PROJECT_DIR$/lib/game/levels/StageSelect.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/game/levels/level5.js" afterPath="$PROJECT_DIR$/lib/game/levels/level5.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/game/levels/level6.js" afterPath="$PROJECT_DIR$/lib/game/levels/level6.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="aff50af4-0918-45ba-9aaf-808301880e11" name="Default" comment="" />
     <ignored path="HTML5_SquishyCat.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/Dummy.txt" changelist="aff50af4-0918-45ba-9aaf-808301880e11" time="1372799683688" ignored="false" />
