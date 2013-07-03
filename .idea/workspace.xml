@@ -1,19 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="aff50af4-0918-45ba-9aaf-808301880e11" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="aff50af4-0918-45ba-9aaf-808301880e11" name="Default" comment="" />
     <ignored path="HTML5_SquishyCat.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="aff50af4-0918-45ba-9aaf-808301880e11" time="1372880808733" ignored="false" />
-    <file path="/SquishKitten.js" changelist="aff50af4-0918-45ba-9aaf-808301880e11" time="1372880697790" ignored="false" />
+    <file path="/Dummy.txt" changelist="aff50af4-0918-45ba-9aaf-808301880e11" time="1372881601589" ignored="false" />
+    <file path="/SquishKitten.js" changelist="aff50af4-0918-45ba-9aaf-808301880e11" time="1372881496140" ignored="false" />
     <file path="/sound.js" changelist="aff50af4-0918-45ba-9aaf-808301880e11" time="1372805989523" ignored="false" />
     <file path="/main.js" changelist="aff50af4-0918-45ba-9aaf-808301880e11" time="1372862228926" ignored="false" />
     <file path="/animation.js" changelist="aff50af4-0918-45ba-9aaf-808301880e11" time="1372871970318" ignored="false" />
     <file path="/Switch.js" changelist="aff50af4-0918-45ba-9aaf-808301880e11" time="1372875807461" ignored="false" />
     <file path="/WinBox.js" changelist="aff50af4-0918-45ba-9aaf-808301880e11" time="1372874812389" ignored="false" />
     <file path="/Door.js" changelist="aff50af4-0918-45ba-9aaf-808301880e11" time="1372878405070" ignored="false" />
+    <file path="$PROJECT_DIR$/.idea/workspace.xml" changelist="aff50af4-0918-45ba-9aaf-808301880e11" time="1372881598123" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,16 +35,18 @@
       <file leaf-file-name="SquishKitten.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/lib/game/entities/SquishKitten.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="540" column="68" selection-start="24026" selection-end="24026" vertical-scroll-proportion="0.9147287">
+            <state line="212" column="36" selection-start="9509" selection-end="9509" vertical-scroll-proportion="0.50775194">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SquishyCat.png" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/media/Art/Animations/SquishyCat.png">
-          <provider selected="true" editor-type-id="images">
-            <state />
+      <file leaf-file-name="SpringFloor.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/game/entities/SpringFloor.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="23" column="10" selection-start="514" selection-end="514" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
           </provider>
         </entry>
       </file>
@@ -85,8 +86,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="23" />
-    <option name="y" value="149" />
+    <option name="x" value="11" />
+    <option name="y" value="130" />
     <option name="width" value="1268" />
     <option name="height" value="961" />
   </component>
@@ -131,108 +132,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="HTML5_SquishyCat" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="HTML5_SquishyCat" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="HTML5_SquishyCat" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="media" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="HTML5_SquishyCat" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="HTML5_SquishyCat" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="media" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Art" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="HTML5_SquishyCat" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="HTML5_SquishyCat" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="media" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Art" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Environment" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="HTML5_SquishyCat" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="HTML5_SquishyCat" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="media" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Art" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Environment" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Atlases" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="HTML5_SquishyCat" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="HTML5_SquishyCat" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="media" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Art" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Animations" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -371,11 +270,15 @@
       <created>1372880813078</created>
       <updated>1372880813078</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Squishanimations 2">
+      <created>1372881609956</created>
+      <updated>1372881609956</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="23" y="149" width="1268" height="961" extended-state="0" />
+    <frame x="11" y="130" width="1268" height="961" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -439,7 +342,7 @@
     <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="Squishanimations" />
+    <option name="LAST_COMMIT_MESSAGE" value="Squishanimations 2" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -461,6 +364,7 @@
     <MESSAGE value="SWITCHES AND DOORS 3: DOOR HARD" />
     <MESSAGE value="DOOR RISING: REVENGEANCE" />
     <MESSAGE value="Squishanimations" />
+    <MESSAGE value="Squishanimations 2" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -468,11 +372,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/lib/game/entities/SpringFloor.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="10" selection-start="514" selection-end="514" vertical-scroll-proportion="0.42227662" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/lib/impact/sound.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="73" column="39" selection-start="1986" selection-end="1986" vertical-scroll-proportion="0.018359853">
@@ -519,7 +418,9 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/impact/animation.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="55" column="31" selection-start="924" selection-end="924" vertical-scroll-proportion="0.018610422" />
+        <state line="55" column="31" selection-start="924" selection-end="924" vertical-scroll-proportion="0.018610422">
+          <folding />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/media/Art/Environment/Atlases/Door.png">
@@ -553,9 +454,16 @@
         <state />
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/lib/game/entities/SpringFloor.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="23" column="10" selection-start="514" selection-end="514" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/lib/game/entities/SquishKitten.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="540" column="68" selection-start="24026" selection-end="24026" vertical-scroll-proportion="0.9147287">
+        <state line="212" column="36" selection-start="9509" selection-end="9509" vertical-scroll-proportion="0.50775194">
           <folding />
         </state>
       </provider>
