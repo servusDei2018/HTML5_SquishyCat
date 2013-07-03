@@ -4,7 +4,7 @@
     <list default="true" id="aff50af4-0918-45ba-9aaf-808301880e11" name="Default" comment="" />
     <ignored path="HTML5_SquishyCat.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="aff50af4-0918-45ba-9aaf-808301880e11" time="1372882468530" ignored="false" />
+    <file path="/Dummy.txt" changelist="aff50af4-0918-45ba-9aaf-808301880e11" time="1372882874424" ignored="false" />
     <file path="/SquishKitten.js" changelist="aff50af4-0918-45ba-9aaf-808301880e11" time="1372882039059" ignored="false" />
     <file path="/sound.js" changelist="aff50af4-0918-45ba-9aaf-808301880e11" time="1372805989523" ignored="false" />
     <file path="/main.js" changelist="aff50af4-0918-45ba-9aaf-808301880e11" time="1372862228926" ignored="false" />
@@ -12,7 +12,7 @@
     <file path="/Switch.js" changelist="aff50af4-0918-45ba-9aaf-808301880e11" time="1372875807461" ignored="false" />
     <file path="/WinBox.js" changelist="aff50af4-0918-45ba-9aaf-808301880e11" time="1372874812389" ignored="false" />
     <file path="/Door.js" changelist="aff50af4-0918-45ba-9aaf-808301880e11" time="1372878405070" ignored="false" />
-    <file path="$PROJECT_DIR$/.idea/workspace.xml" changelist="aff50af4-0918-45ba-9aaf-808301880e11" time="1372882461135" ignored="false" />
+    <file path="$PROJECT_DIR$/.idea/workspace.xml" changelist="aff50af4-0918-45ba-9aaf-808301880e11" time="1372882871239" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,10 +32,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="SquishKitten.js" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="SquishKitten.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lib/game/entities/SquishKitten.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="98" column="128" selection-start="4291" selection-end="4291" vertical-scroll-proportion="0.50775194">
+            <state line="118" column="47" selection-start="5161" selection-end="5161" vertical-scroll-proportion="-26.653847">
               <folding />
             </state>
           </provider>
@@ -52,6 +52,15 @@
         <entry file="file://$PROJECT_DIR$/lib/game/entities/SpringFloor.js">
           <provider selected="true" editor-type-id="text-editor">
             <state line="23" column="10" selection-start="514" selection-end="514" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.js" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/lib/game/main.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="101" column="103" selection-start="2805" selection-end="2805" vertical-scroll-proportion="1.89375">
               <folding />
             </state>
           </provider>
@@ -82,13 +91,13 @@
         <option value="$PROJECT_DIR$/lib/game/levels/StageSelect.js" />
         <option value="$PROJECT_DIR$/lib/game/entities/SpringFloor.js" />
         <option value="$PROJECT_DIR$/lib/impact/sound.js" />
-        <option value="$PROJECT_DIR$/lib/game/main.js" />
         <option value="$PROJECT_DIR$/lib/game/entities/GuideDot.js" />
         <option value="$PROJECT_DIR$/lib/impact/animation.js" />
         <option value="$PROJECT_DIR$/lib/game/entities/WinBox.js" />
         <option value="$PROJECT_DIR$/lib/game/entities/Switch.js" />
         <option value="$PROJECT_DIR$/lib/game/entities/Door.js" />
         <option value="$PROJECT_DIR$/lib/game/entities/SquishKitten.js" />
+        <option value="$PROJECT_DIR$/lib/game/main.js" />
       </list>
     </option>
   </component>
@@ -339,7 +348,11 @@
       <created>1372882472230</created>
       <updated>1372882472230</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Larger Screen">
+      <created>1372882876061</created>
+      <updated>1372882876061</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -407,7 +420,7 @@
     <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="Attempting to move animations" />
+    <option name="LAST_COMMIT_MESSAGE" value="Larger Screen" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -431,6 +444,7 @@
     <MESSAGE value="Squishanimations" />
     <MESSAGE value="Squishanimations 2" />
     <MESSAGE value="Attempting to move animations" />
+    <MESSAGE value="Larger Screen" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -494,13 +508,6 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lib/game/main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="125" column="35" selection-start="3229" selection-end="3232" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/lib/game/entities/Switch.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="39" column="39" selection-start="1103" selection-end="1103" vertical-scroll-proportion="0.0">
@@ -529,7 +536,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/game/entities/SquishKitten.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="98" column="128" selection-start="4291" selection-end="4291" vertical-scroll-proportion="0.50775194">
+        <state line="118" column="47" selection-start="5161" selection-end="5161" vertical-scroll-proportion="-26.653847">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/game/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="101" column="103" selection-start="2805" selection-end="2805" vertical-scroll-proportion="1.89375">
           <folding />
         </state>
       </provider>
