@@ -6,8 +6,8 @@
     </list>
     <ignored path="HTML5_SquishyCat.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="aff50af4-0918-45ba-9aaf-808301880e11" time="1372878487702" ignored="false" />
-    <file path="/SquishKitten.js" changelist="aff50af4-0918-45ba-9aaf-808301880e11" time="1372872353716" ignored="false" />
+    <file path="/Dummy.txt" changelist="aff50af4-0918-45ba-9aaf-808301880e11" time="1372880808733" ignored="false" />
+    <file path="/SquishKitten.js" changelist="aff50af4-0918-45ba-9aaf-808301880e11" time="1372880697790" ignored="false" />
     <file path="/sound.js" changelist="aff50af4-0918-45ba-9aaf-808301880e11" time="1372805989523" ignored="false" />
     <file path="/main.js" changelist="aff50af4-0918-45ba-9aaf-808301880e11" time="1372862228926" ignored="false" />
     <file path="/animation.js" changelist="aff50af4-0918-45ba-9aaf-808301880e11" time="1372871970318" ignored="false" />
@@ -33,39 +33,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="SquishKitten.js" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="SquishKitten.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/lib/game/entities/SquishKitten.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="430" column="19" selection-start="3718" selection-end="19064" vertical-scroll-proportion="-19.73077">
+            <state line="540" column="68" selection-start="24026" selection-end="24026" vertical-scroll-proportion="0.9147287">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Door.js" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/lib/game/entities/Door.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="16" column="26" selection-start="420" selection-end="420" vertical-scroll-proportion="0.24600247">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Switch.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lib/game/entities/Switch.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="39" column="39" selection-start="1103" selection-end="1103" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="main.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lib/game/main.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="125" column="35" selection-start="3229" selection-end="3232" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
+      <file leaf-file-name="SquishyCat.png" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/media/Art/Animations/SquishyCat.png">
+          <provider selected="true" editor-type-id="images">
+            <state />
           </provider>
         </entry>
       </file>
@@ -98,14 +78,14 @@
         <option value="$PROJECT_DIR$/lib/game/entities/GuideDot.js" />
         <option value="$PROJECT_DIR$/lib/impact/animation.js" />
         <option value="$PROJECT_DIR$/lib/game/entities/WinBox.js" />
-        <option value="$PROJECT_DIR$/lib/game/entities/SquishKitten.js" />
         <option value="$PROJECT_DIR$/lib/game/entities/Switch.js" />
         <option value="$PROJECT_DIR$/lib/game/entities/Door.js" />
+        <option value="$PROJECT_DIR$/lib/game/entities/SquishKitten.js" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="22" />
+    <option name="x" value="23" />
     <option name="y" value="149" />
     <option name="width" value="1268" />
     <option name="height" value="961" />
@@ -136,7 +116,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -245,6 +224,28 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="media" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Art" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Animations" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HTML5_SquishyCat" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HTML5_SquishyCat" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="lib" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -291,6 +292,7 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -365,11 +367,15 @@
       <created>1372878493897</created>
       <updated>1372878493897</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Squishanimations">
+      <created>1372880813078</created>
+      <updated>1372880813078</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="22" y="149" width="1268" height="961" extended-state="0" />
+    <frame x="23" y="149" width="1268" height="961" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -433,7 +439,7 @@
     <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="DOOR RISING: REVENGEANCE" />
+    <option name="LAST_COMMIT_MESSAGE" value="Squishanimations" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -454,6 +460,7 @@
     <MESSAGE value="SWITCHES AND DOORS 2: DOOR HARDER" />
     <MESSAGE value="SWITCHES AND DOORS 3: DOOR HARD" />
     <MESSAGE value="DOOR RISING: REVENGEANCE" />
+    <MESSAGE value="Squishanimations" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -476,11 +483,6 @@
     <entry file="file://$PROJECT_DIR$/media/Art/Animations/SquichyCatAnimationList.rtf">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/media/Art/Animations/SquishyCat.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/media/Art/Animations/SmokeAnim.png">
@@ -517,9 +519,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/impact/animation.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="55" column="31" selection-start="924" selection-end="924" vertical-scroll-proportion="0.018610422">
-          <folding />
-        </state>
+        <state line="55" column="31" selection-start="924" selection-end="924" vertical-scroll-proportion="0.018610422" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/media/Art/Environment/Atlases/Door.png">
@@ -534,13 +534,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lib/game/entities/SquishKitten.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="430" column="19" selection-start="3718" selection-end="19064" vertical-scroll-proportion="-19.73077">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/lib/game/entities/Switch.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="39" column="39" selection-start="1103" selection-end="1103" vertical-scroll-proportion="0.0">
@@ -550,7 +543,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/game/entities/Door.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="26" selection-start="420" selection-end="420" vertical-scroll-proportion="0.24600247">
+        <state line="16" column="26" selection-start="420" selection-end="420" vertical-scroll-proportion="0.2184049">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/media/Art/Animations/SquishyCat.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/game/entities/SquishKitten.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="540" column="68" selection-start="24026" selection-end="24026" vertical-scroll-proportion="0.9147287">
           <folding />
         </state>
       </provider>
