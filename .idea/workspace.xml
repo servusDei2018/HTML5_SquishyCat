@@ -1,17 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="aff50af4-0918-45ba-9aaf-808301880e11" name="Default" comment="" />
+    <list default="true" id="aff50af4-0918-45ba-9aaf-808301880e11" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="HTML5_SquishyCat.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="aff50af4-0918-45ba-9aaf-808301880e11" time="1372876769461" ignored="false" />
+    <file path="/Dummy.txt" changelist="aff50af4-0918-45ba-9aaf-808301880e11" time="1372878487702" ignored="false" />
     <file path="/SquishKitten.js" changelist="aff50af4-0918-45ba-9aaf-808301880e11" time="1372872353716" ignored="false" />
     <file path="/sound.js" changelist="aff50af4-0918-45ba-9aaf-808301880e11" time="1372805989523" ignored="false" />
     <file path="/main.js" changelist="aff50af4-0918-45ba-9aaf-808301880e11" time="1372862228926" ignored="false" />
     <file path="/animation.js" changelist="aff50af4-0918-45ba-9aaf-808301880e11" time="1372871970318" ignored="false" />
     <file path="/Switch.js" changelist="aff50af4-0918-45ba-9aaf-808301880e11" time="1372875807461" ignored="false" />
     <file path="/WinBox.js" changelist="aff50af4-0918-45ba-9aaf-808301880e11" time="1372874812389" ignored="false" />
-    <file path="$PROJECT_DIR$/.idea/workspace.xml" changelist="aff50af4-0918-45ba-9aaf-808301880e11" time="1372876754992" ignored="false" />
+    <file path="/Door.js" changelist="aff50af4-0918-45ba-9aaf-808301880e11" time="1372878405070" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,43 +36,36 @@
       <file leaf-file-name="SquishKitten.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lib/game/entities/SquishKitten.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="100" selection-start="266" selection-end="266" vertical-scroll-proportion="0.0">
+            <state line="430" column="19" selection-start="3718" selection-end="19064" vertical-scroll-proportion="-19.73077">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Switch.js" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/lib/game/entities/Switch.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="95" selection-start="47" selection-end="47" vertical-scroll-proportion="0.036900368">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="WinBox.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lib/game/entities/WinBox.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="15" column="20" selection-start="340" selection-end="340" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Door.js" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="Door.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/lib/game/entities/Door.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="21" column="0" selection-start="279" selection-end="575" vertical-scroll-proportion="0.0">
+            <state line="16" column="26" selection-start="420" selection-end="420" vertical-scroll-proportion="0.24600247">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Door.png" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/media/Art/Environment/Atlases/Door.png">
-          <provider selected="true" editor-type-id="images">
-            <state />
+      <file leaf-file-name="Switch.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/game/entities/Switch.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="39" column="39" selection-start="1103" selection-end="1103" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/game/main.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="125" column="35" selection-start="3229" selection-end="3232" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
           </provider>
         </entry>
       </file>
@@ -103,9 +98,9 @@
         <option value="$PROJECT_DIR$/lib/game/entities/GuideDot.js" />
         <option value="$PROJECT_DIR$/lib/impact/animation.js" />
         <option value="$PROJECT_DIR$/lib/game/entities/WinBox.js" />
-        <option value="$PROJECT_DIR$/lib/game/entities/Door.js" />
         <option value="$PROJECT_DIR$/lib/game/entities/SquishKitten.js" />
         <option value="$PROJECT_DIR$/lib/game/entities/Switch.js" />
+        <option value="$PROJECT_DIR$/lib/game/entities/Door.js" />
       </list>
     </option>
   </component>
@@ -141,6 +136,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -295,7 +291,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -366,7 +361,11 @@
       <created>1372876774921</created>
       <updated>1372876774921</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="DOOR RISING: REVENGEANCE">
+      <created>1372878493897</created>
+      <updated>1372878493897</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -377,7 +376,7 @@
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3694779" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3686747" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -434,7 +433,7 @@
     <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="SWITCHES AND DOORS 3: DOOR HARD" />
+    <option name="LAST_COMMIT_MESSAGE" value="DOOR RISING: REVENGEANCE" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -454,6 +453,7 @@
     <MESSAGE value="SWITCHES AND DOORS&#10;Adachi.jpg" />
     <MESSAGE value="SWITCHES AND DOORS 2: DOOR HARDER" />
     <MESSAGE value="SWITCHES AND DOORS 3: DOOR HARD" />
+    <MESSAGE value="DOOR RISING: REVENGEANCE" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -481,11 +481,6 @@
     <entry file="file://$PROJECT_DIR$/media/Art/Animations/SquishyCat.png">
       <provider selected="true" editor-type-id="images">
         <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/game/main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="77" column="31" selection-start="1985" selection-end="1985" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/media/Art/Animations/SmokeAnim.png">
@@ -532,23 +527,30 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lib/game/entities/Door.js">
+    <entry file="file://$PROJECT_DIR$/lib/game/main.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="0" selection-start="279" selection-end="575" vertical-scroll-proportion="0.0">
+        <state line="125" column="35" selection-start="3229" selection-end="3232" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/game/entities/SquishKitten.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="100" selection-start="266" selection-end="266" vertical-scroll-proportion="0.0">
+        <state line="430" column="19" selection-start="3718" selection-end="19064" vertical-scroll-proportion="-19.73077">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/game/entities/Switch.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="95" selection-start="47" selection-end="47" vertical-scroll-proportion="0.036900368">
+        <state line="39" column="39" selection-start="1103" selection-end="1103" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/game/entities/Door.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="26" selection-start="420" selection-end="420" vertical-scroll-proportion="0.24600247">
           <folding />
         </state>
       </provider>
