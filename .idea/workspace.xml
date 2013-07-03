@@ -3,13 +3,14 @@
   <component name="ChangeListManager">
     <list default="true" id="aff50af4-0918-45ba-9aaf-808301880e11" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/game/main.js" afterPath="$PROJECT_DIR$/lib/game/main.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="HTML5_SquishyCat.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="aff50af4-0918-45ba-9aaf-808301880e11" time="1372808018969" ignored="false" />
+    <file path="/Dummy.txt" changelist="aff50af4-0918-45ba-9aaf-808301880e11" time="1372861230189" ignored="false" />
     <file path="/SquishKitten.js" changelist="aff50af4-0918-45ba-9aaf-808301880e11" time="1372807072957" ignored="false" />
     <file path="/sound.js" changelist="aff50af4-0918-45ba-9aaf-808301880e11" time="1372805989523" ignored="false" />
-    <file path="/main.js" changelist="aff50af4-0918-45ba-9aaf-808301880e11" time="1372860914952" ignored="false" />
+    <file path="/main.js" changelist="aff50af4-0918-45ba-9aaf-808301880e11" time="1372862228926" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,7 +33,7 @@
       <file leaf-file-name="SquishKitten.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lib/game/entities/SquishKitten.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="54" column="72" selection-start="1480" selection-end="1611" vertical-scroll-proportion="0.0">
+            <state line="60" column="27" selection-start="1857" selection-end="1896" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -41,7 +42,7 @@
       <file leaf-file-name="main.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/lib/game/main.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="101" column="12" selection-start="2753" selection-end="2753" vertical-scroll-proportion="1.7074664">
+            <state line="65" column="88" selection-start="1690" selection-end="1690" vertical-scroll-proportion="0.8996328">
               <folding />
             </state>
           </provider>
@@ -111,7 +112,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -196,6 +196,7 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -365,9 +366,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/game/entities/KillBox.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="29" selection-start="193" selection-end="193" vertical-scroll-proportion="0.18891688">
-          <folding />
-        </state>
+        <state line="10" column="29" selection-start="193" selection-end="193" vertical-scroll-proportion="0.18891688" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/game/entities/LevelButton.js">
@@ -427,14 +426,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/game/entities/SquishKitten.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="54" column="72" selection-start="1480" selection-end="1611" vertical-scroll-proportion="0.0">
+        <state line="60" column="27" selection-start="1857" selection-end="1896" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/game/main.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="101" column="12" selection-start="2753" selection-end="2753" vertical-scroll-proportion="1.7074664">
+        <state line="65" column="88" selection-start="1690" selection-end="1690" vertical-scroll-proportion="0.8996328">
           <folding />
         </state>
       </provider>
