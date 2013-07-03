@@ -2,33 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aff50af4-0918-45ba-9aaf-808301880e11" name="Default" comment="">
-      <change type="MOVED" beforePath="$PROJECT_DIR$/media/SFX/MP3s/GroundImpact.mp3" afterPath="$PROJECT_DIR$/media/SFX/GroundImpact.mp3" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/media/SFX/MP3s/Launch.mp3" afterPath="$PROJECT_DIR$/media/SFX/Launch.mp3" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/media/SFX/MP3s/LevelSelection.mp3" afterPath="$PROJECT_DIR$/media/SFX/LevelSelection.mp3" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/media/SFX/MP3s/LineStretch.mp3" afterPath="$PROJECT_DIR$/media/SFX/LineStretch.mp3" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/media/SFX/MP3s/NonStickBounce.mp3" afterPath="$PROJECT_DIR$/media/SFX/NonStickBounce.mp3" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/media/SFX/MP3s/PeelOffWall.mp3" afterPath="$PROJECT_DIR$/media/SFX/PeelOffWall.mp3" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/media/SFX/MP3s/Respawn1.mp3" afterPath="$PROJECT_DIR$/media/SFX/Respawn1.mp3" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/media/SFX/MP3s/Splat1.mp3" afterPath="$PROJECT_DIR$/media/SFX/Splat1.mp3" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/media/SFX/MP3s/Splat2.mp3" afterPath="$PROJECT_DIR$/media/SFX/Splat2.mp3" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/media/SFX/MP3s/WaterSplash.mp3" afterPath="$PROJECT_DIR$/media/SFX/WaterSplash.mp3" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/media/SFX/OGGs/GroundImpact.ogg" afterPath="$PROJECT_DIR$/media/SFX/GroundImpact.ogg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/media/SFX/OGGs/Launch.ogg" afterPath="$PROJECT_DIR$/media/SFX/Launch.ogg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/media/SFX/OGGs/LevelSelection.ogg" afterPath="$PROJECT_DIR$/media/SFX/LevelSelection.ogg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/media/SFX/OGGs/LineStretch.ogg" afterPath="$PROJECT_DIR$/media/SFX/LineStretch.ogg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/media/SFX/OGGs/NonStickBounce.ogg" afterPath="$PROJECT_DIR$/media/SFX/NonStickBounce.ogg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/media/SFX/OGGs/PeelOffWall.ogg" afterPath="$PROJECT_DIR$/media/SFX/PeelOffWall.ogg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/media/SFX/OGGs/Respawn1.ogg" afterPath="$PROJECT_DIR$/media/SFX/Respawn1.ogg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/media/SFX/OGGs/Splat1.ogg" afterPath="$PROJECT_DIR$/media/SFX/Splat1.ogg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/media/SFX/OGGs/Splat2.ogg" afterPath="$PROJECT_DIR$/media/SFX/Splat2.ogg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/media/SFX/OGGs/WaterSplash.ogg" afterPath="$PROJECT_DIR$/media/SFX/WaterSplash.ogg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/game/main.js" afterPath="$PROJECT_DIR$/lib/game/main.js" />
     </list>
     <ignored path="HTML5_SquishyCat.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/Dummy.txt" changelist="aff50af4-0918-45ba-9aaf-808301880e11" time="1372808018969" ignored="false" />
     <file path="/SquishKitten.js" changelist="aff50af4-0918-45ba-9aaf-808301880e11" time="1372807072957" ignored="false" />
     <file path="/sound.js" changelist="aff50af4-0918-45ba-9aaf-808301880e11" time="1372805989523" ignored="false" />
+    <file path="/main.js" changelist="aff50af4-0918-45ba-9aaf-808301880e11" time="1372860914952" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,55 +29,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="StageSelect.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lib/game/levels/StageSelect.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="114" selection-start="304" selection-end="310" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="main.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lib/game/main.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="32" column="29" selection-start="628" selection-end="632" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SquishKitten.js" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="SquishKitten.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lib/game/entities/SquishKitten.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="130" column="46" selection-start="4642" selection-end="4642" vertical-scroll-proportion="0.9141791">
+            <state line="54" column="72" selection-start="1480" selection-end="1611" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="sound.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lib/impact/sound.js">
+      <file leaf-file-name="main.js" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/lib/game/main.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="73" column="39" selection-start="1986" selection-end="1986" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SpringFloor.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lib/game/entities/SpringFloor.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="23" column="10" selection-start="514" selection-end="514" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="level1.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lib/game/levels/level1.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="12" selection-start="12" selection-end="30" vertical-scroll-proportion="0.0">
+            <state line="101" column="12" selection-start="2753" selection-end="2753" vertical-scroll-proportion="1.7074664">
               <folding />
             </state>
           </provider>
@@ -127,16 +72,16 @@
         <option value="$PROJECT_DIR$/lib/game/entities/KillBox.js" />
         <option value="$PROJECT_DIR$/lib/game/entities/GuideDot.js" />
         <option value="$PROJECT_DIR$/lib/game/levels/StageSelect.js" />
-        <option value="$PROJECT_DIR$/lib/game/main.js" />
         <option value="$PROJECT_DIR$/lib/game/entities/SpringFloor.js" />
         <option value="$PROJECT_DIR$/lib/impact/sound.js" />
         <option value="$PROJECT_DIR$/lib/game/entities/SquishKitten.js" />
+        <option value="$PROJECT_DIR$/lib/game/main.js" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="10" />
-    <option name="y" value="110" />
+    <option name="x" value="4" />
+    <option name="y" value="99" />
     <option name="width" value="1163" />
     <option name="height" value="963" />
   </component>
@@ -213,7 +158,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="SFX" />
+              <option name="myItemId" value="Music" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -245,7 +190,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="impact" />
+              <option name="myItemId" value="game" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -309,7 +254,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="10" y="110" width="1163" height="963" extended-state="0" />
+    <frame x="4" y="99" width="1163" height="963" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -391,7 +336,9 @@
     <MESSAGE value="Levels!" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/lib/game/levels/TileToaster.js">
@@ -425,7 +372,9 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/game/entities/LevelButton.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/game/entities/RoughFloor.js">
@@ -464,28 +413,28 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/game/entities/SpringFloor.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="10" selection-start="514" selection-end="514" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/game/main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="32" column="29" selection-start="628" selection-end="632" vertical-scroll-proportion="0.0">
+        <state line="23" column="10" selection-start="514" selection-end="514" vertical-scroll-proportion="0.42227662">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/impact/sound.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="73" column="39" selection-start="1986" selection-end="1986" vertical-scroll-proportion="0.0">
+        <state line="73" column="39" selection-start="1986" selection-end="1986" vertical-scroll-proportion="0.018359853">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/game/entities/SquishKitten.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="130" column="46" selection-start="4642" selection-end="4642" vertical-scroll-proportion="0.9141791">
+        <state line="54" column="72" selection-start="1480" selection-end="1611" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/game/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="101" column="12" selection-start="2753" selection-end="2753" vertical-scroll-proportion="1.7074664">
           <folding />
         </state>
       </provider>
