@@ -1,31 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-<<<<<<< HEAD
     <list default="true" id="aff50af4-0918-45ba-9aaf-808301880e11" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/game/entities/GreenLinesLargeA.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/game/entities/GreenLinesLargeB.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/game/entities/GreenLinesSmallA.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/game/entities/PurpleLinesLargeA.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/game/entities/PurpleLinesLargeB.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/game/entities/PurpleLinesLongA.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/game/levels/level1.js" afterPath="$PROJECT_DIR$/lib/game/levels/level1.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/game/levels/level2.js" afterPath="$PROJECT_DIR$/lib/game/levels/level2.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/game/levels/level3.js" afterPath="$PROJECT_DIR$/lib/game/levels/level3.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/game/levels/level4.js" afterPath="$PROJECT_DIR$/lib/game/levels/level4.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/Art/Environment/Atlases/StaticPieces2.png" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/Art/Environment/Atlases/StaticPieces.png" afterPath="$PROJECT_DIR$/media/Art/Environment/Atlases/StaticPieces.png" />
     </list>
     <ignored path="HTML5_SquishyCat.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/Dummy.txt" changelist="aff50af4-0918-45ba-9aaf-808301880e11" time="1373308714467" ignored="false" />
     <file path="/SquishKitten.js" changelist="aff50af4-0918-45ba-9aaf-808301880e11" time="1372882039059" ignored="false" />
-=======
-    <list default="true" id="aff50af4-0918-45ba-9aaf-808301880e11" name="Default" comment="" />
-    <ignored path="HTML5_SquishyCat.iws" />
-    <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="aff50af4-0918-45ba-9aaf-808301880e11" time="1373317263228" ignored="false" />
-    <file path="/SquishKitten.js" changelist="aff50af4-0918-45ba-9aaf-808301880e11" time="1373317224377" ignored="false" />
->>>>>>> 75e6adf833acfcf1dbfd998da14d0d72bf183bb5
     <file path="/sound.js" changelist="aff50af4-0918-45ba-9aaf-808301880e11" time="1372805989523" ignored="false" />
     <file path="/main.js" changelist="aff50af4-0918-45ba-9aaf-808301880e11" time="1372862228926" ignored="false" />
     <file path="/animation.js" changelist="aff50af4-0918-45ba-9aaf-808301880e11" time="1372871970318" ignored="false" />
@@ -33,15 +16,11 @@
     <file path="/WinBox.js" changelist="aff50af4-0918-45ba-9aaf-808301880e11" time="1372874812389" ignored="false" />
     <file path="/Door.js" changelist="aff50af4-0918-45ba-9aaf-808301880e11" time="1372878405070" ignored="false" />
     <file path="/BackgroundObject.js" changelist="aff50af4-0918-45ba-9aaf-808301880e11" time="1373299604364" ignored="false" />
-    <file path="/PurpleGoo.js" changelist="aff50af4-0918-45ba-9aaf-808301880e11" time="1373308889840" ignored="false" />
+    <file path="/PurpleGoo.js" changelist="aff50af4-0918-45ba-9aaf-808301880e11" time="1373299613038" ignored="false" />
     <file path="/loader.js" changelist="aff50af4-0918-45ba-9aaf-808301880e11" time="1373300566530" ignored="false" />
-<<<<<<< HEAD
     <file path="/GreenLinesLargeA.js" changelist="aff50af4-0918-45ba-9aaf-808301880e11" time="1373309050848" ignored="false" />
     <file path="/GreenLinesLargeB.js" changelist="aff50af4-0918-45ba-9aaf-808301880e11" time="1373310067818" ignored="false" />
     <file path="/PurpleLinesLargeB.js" changelist="aff50af4-0918-45ba-9aaf-808301880e11" time="1373311323047" ignored="false" />
-=======
-    <file path="$PROJECT_DIR$/.idea/workspace.xml" changelist="aff50af4-0918-45ba-9aaf-808301880e11" time="1373317254409" ignored="false" />
->>>>>>> 75e6adf833acfcf1dbfd998da14d0d72bf183bb5
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,7 +40,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-<<<<<<< HEAD
       <file leaf-file-name="PurpleGoo.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lib/game/entities/PurpleGoo.js">
           <provider selected="true" editor-type-id="text-editor">
@@ -74,7 +52,7 @@
       <file leaf-file-name="GreenLinesLargeA.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lib/game/entities/GreenLinesLargeA.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="22" column="56" selection-start="606" selection-end="606" vertical-scroll-proportion="0.0">
+            <state line="22" column="0" selection-start="606" selection-end="606" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -119,7 +97,7 @@
       <file leaf-file-name="PurpleLinesLongA.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/lib/game/entities/PurpleLinesLongA.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="20" column="46" selection-start="608" selection-end="608" vertical-scroll-proportion="0.37974682">
+            <state line="20" column="49" selection-start="608" selection-end="608" vertical-scroll-proportion="0.37974682">
               <folding />
             </state>
           </provider>
@@ -147,12 +125,6 @@
         <entry file="file://$PROJECT_DIR$/lib/game/entities/GuideDot.js">
           <provider selected="true" editor-type-id="text-editor">
             <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-=======
-      <file leaf-file-name="SquishKitten.js" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/lib/game/entities/SquishKitten.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="70" column="27" selection-start="2241" selection-end="2241" vertical-scroll-proportion="0.5426357">
->>>>>>> 75e6adf833acfcf1dbfd998da14d0d72bf183bb5
               <folding />
             </state>
           </provider>
@@ -183,24 +155,21 @@
         <option value="$PROJECT_DIR$/lib/game/main.js" />
         <option value="$PROJECT_DIR$/lib/game/entities/BackgroundObject.js" />
         <option value="$PROJECT_DIR$/lib/impact/loader.js" />
+        <option value="$PROJECT_DIR$/lib/game/entities/SquishKitten.js" />
         <option value="$PROJECT_DIR$/lib/game/levels/level1.js" />
         <option value="$PROJECT_DIR$/lib/game/entities/PurpleGoo.js" />
-<<<<<<< HEAD
         <option value="$PROJECT_DIR$/lib/game/entities/GreenLinesLargeA.js" />
         <option value="$PROJECT_DIR$/lib/game/entities/GreenLinesLargeB.js" />
         <option value="$PROJECT_DIR$/lib/game/entities/PurpleLinesLargeA.js" />
         <option value="$PROJECT_DIR$/lib/game/entities/PurpleLinesLargeB.js" />
         <option value="$PROJECT_DIR$/lib/game/entities/GreenLinesSmallA.js" />
         <option value="$PROJECT_DIR$/lib/game/entities/PurpleLinesLongA.js" />
-=======
-        <option value="$PROJECT_DIR$/lib/game/entities/SquishKitten.js" />
->>>>>>> 75e6adf833acfcf1dbfd998da14d0d72bf183bb5
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="645" />
-    <option name="y" value="131" />
+    <option name="x" value="411" />
+    <option name="y" value="197" />
     <option name="width" value="1268" />
     <option name="height" value="961" />
   </component>
@@ -258,25 +227,11 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="media" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="HTML5_SquishyCat" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="HTML5_SquishyCat" />
+              <option name="myItemId" value="lib" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="media" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="SFX" />
+              <option name="myItemId" value="weltmeister" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -291,6 +246,116 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="lib" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="impact" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HTML5_SquishyCat" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HTML5_SquishyCat" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lib" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="impact" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="debug" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HTML5_SquishyCat" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HTML5_SquishyCat" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lib" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="game" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HTML5_SquishyCat" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HTML5_SquishyCat" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lib" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="game" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="utilities" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HTML5_SquishyCat" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HTML5_SquishyCat" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lib" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="game" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="levels" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HTML5_SquishyCat" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HTML5_SquishyCat" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lib" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="game" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="entities" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -394,25 +459,16 @@
       <created>1373293168559</created>
       <updated>1373293168559</updated>
     </task>
-    <task id="LOCAL-00013" summary="Squishy Cat Polish">
-      <created>1373313460643</created>
-      <updated>1373313460643</updated>
-    </task>
-    <task id="LOCAL-00014" summary="Alternate control scheme support">
-      <created>1373317267504</created>
-      <updated>1373317267504</updated>
-    </task>
-    <option name="localTasksCounter" value="15" />
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="645" y="131" width="1268" height="961" extended-state="0" />
+    <frame x="411" y="197" width="1268" height="961" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24979919" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2738956" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -423,6 +479,7 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -470,7 +527,7 @@
     <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="Alternate control scheme support" />
+    <option name="LAST_COMMIT_MESSAGE" value="Music Swap" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -496,8 +553,6 @@
     <MESSAGE value="Attempting to move animations" />
     <MESSAGE value="Larger Screen" />
     <MESSAGE value="Music Swap" />
-    <MESSAGE value="Squishy Cat Polish" />
-    <MESSAGE value="Alternate control scheme support" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -529,7 +584,6 @@
         </state>
       </provider>
     </entry>
-<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/lib/game/levels/level1.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="4" column="22" selection-start="8754" selection-end="8754" vertical-scroll-proportion="0.0">
@@ -538,9 +592,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/game/entities/LevelButton.js">
-=======
-    <entry file="file://$PROJECT_DIR$/lib/game/entities/SpringFloor.js">
->>>>>>> 75e6adf833acfcf1dbfd998da14d0d72bf183bb5
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
@@ -554,7 +605,6 @@
         </state>
       </provider>
     </entry>
-<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/lib/game/entities/KillBox.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
@@ -563,9 +613,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/game/entities/GuideDot.js">
-=======
-    <entry file="file://$PROJECT_DIR$/lib/game/entities/LevelButton.js">
->>>>>>> 75e6adf833acfcf1dbfd998da14d0d72bf183bb5
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
@@ -581,7 +628,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/game/entities/GreenLinesLargeA.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="56" selection-start="606" selection-end="606" vertical-scroll-proportion="0.0">
+        <state line="22" column="0" selection-start="606" selection-end="606" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
@@ -609,36 +656,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/game/entities/GreenLinesSmallA.js">
       <provider selected="true" editor-type-id="text-editor">
-<<<<<<< HEAD
         <state line="0" column="0" selection-start="0" selection-end="607" vertical-scroll-proportion="0.0">
-=======
-        <state line="4" column="22" selection-start="8754" selection-end="8754" vertical-scroll-proportion="0.0">
->>>>>>> 75e6adf833acfcf1dbfd998da14d0d72bf183bb5
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/game/entities/PurpleLinesLongA.js">
       <provider selected="true" editor-type-id="text-editor">
-<<<<<<< HEAD
-        <state line="20" column="46" selection-start="608" selection-end="608" vertical-scroll-proportion="0.37974682">
-=======
-        <state line="20" column="55" selection-start="536" selection-end="536" vertical-scroll-proportion="0.37878788">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/game/entities/RoughFloor.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/game/entities/SquishKitten.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="70" column="27" selection-start="2241" selection-end="2241" vertical-scroll-proportion="0.5426357">
->>>>>>> 75e6adf833acfcf1dbfd998da14d0d72bf183bb5
+        <state line="20" column="49" selection-start="608" selection-end="608" vertical-scroll-proportion="0.37974682">
           <folding />
         </state>
       </provider>
