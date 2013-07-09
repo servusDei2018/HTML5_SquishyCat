@@ -2,12 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aff50af4-0918-45ba-9aaf-808301880e11" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/game/entities/SquishKitten.js" afterPath="$PROJECT_DIR$/lib/game/entities/SquishKitten.js" />
     </list>
     <ignored path="HTML5_SquishyCat.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/Dummy.txt" changelist="aff50af4-0918-45ba-9aaf-808301880e11" time="1373322463349" ignored="false" />
-    <file path="/SquishKitten.js" changelist="aff50af4-0918-45ba-9aaf-808301880e11" time="1373321737139" ignored="false" />
+    <file path="/SquishKitten.js" changelist="aff50af4-0918-45ba-9aaf-808301880e11" time="1373374535251" ignored="false" />
     <file path="/sound.js" changelist="aff50af4-0918-45ba-9aaf-808301880e11" time="1372805989523" ignored="false" />
     <file path="/main.js" changelist="aff50af4-0918-45ba-9aaf-808301880e11" time="1373319069148" ignored="false" />
     <file path="/animation.js" changelist="aff50af4-0918-45ba-9aaf-808301880e11" time="1372871970318" ignored="false" />
@@ -17,6 +17,7 @@
     <file path="/BackgroundObject.js" changelist="aff50af4-0918-45ba-9aaf-808301880e11" time="1373299604364" ignored="false" />
     <file path="/PurpleGoo.js" changelist="aff50af4-0918-45ba-9aaf-808301880e11" time="1373308889840" ignored="false" />
     <file path="/loader.js" changelist="aff50af4-0918-45ba-9aaf-808301880e11" time="1373300566530" ignored="false" />
+    <file path="$PROJECT_DIR$/.idea/workspace.xml" changelist="aff50af4-0918-45ba-9aaf-808301880e11" time="1373376625385" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,7 +40,7 @@
       <file leaf-file-name="SquishKitten.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/lib/game/entities/SquishKitten.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="120" column="50" selection-start="5356" selection-end="5356" vertical-scroll-proportion="0.46899223">
+            <state line="419" column="79" selection-start="19526" selection-end="19526" vertical-scroll-proportion="0.37209302">
               <folding />
             </state>
           </provider>
@@ -532,7 +533,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/game/entities/SquishKitten.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="120" column="50" selection-start="5356" selection-end="5356" vertical-scroll-proportion="0.46899223">
+        <state line="419" column="79" selection-start="19526" selection-end="19526" vertical-scroll-proportion="0.37209302">
           <folding />
         </state>
       </provider>
