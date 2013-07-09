@@ -1,2 +1,4 @@
 .DS_Store
 *.xml
+
+lib/game/levels/StageSelect.js
