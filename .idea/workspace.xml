@@ -6,7 +6,7 @@
     </list>
     <ignored path="HTML5_SquishyCat.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="aff50af4-0918-45ba-9aaf-808301880e11" time="1373407822792" ignored="false" />
+    <file path="/Dummy.txt" changelist="aff50af4-0918-45ba-9aaf-808301880e11" time="1373408611211" ignored="false" />
     <file path="/SquishKitten.js" changelist="aff50af4-0918-45ba-9aaf-808301880e11" time="1373403762405" ignored="false" />
     <file path="/sound.js" changelist="aff50af4-0918-45ba-9aaf-808301880e11" time="1372805989523" ignored="false" />
     <file path="/main.js" changelist="aff50af4-0918-45ba-9aaf-808301880e11" time="1373406837207" ignored="false" />
@@ -41,7 +41,16 @@
       <file leaf-file-name="main.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/lib/game/main.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="111" column="10" selection-start="3264" selection-end="3264" vertical-scroll-proportion="0.2525">
+            <state line="111" column="51" selection-start="3297" selection-end="3297" vertical-scroll-proportion="0.57875">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LevelButton.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/game/entities/LevelButton.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="10" column="31" selection-start="203" selection-end="203" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -78,9 +87,9 @@
         <option value="$PROJECT_DIR$/lib/game/entities/PurpleLinesLongA.js" />
         <option value="$PROJECT_DIR$/lib/game/entities/SquishKitten.js" />
         <option value="$PROJECT_DIR$/lib/game/entities/LevelCompleteScreen.js" />
-        <option value="$PROJECT_DIR$/lib/game/entities/LevelButton.js" />
         <option value="$PROJECT_DIR$/lib/game/entities/ExitLevelButton.js" />
         <option value="$PROJECT_DIR$/lib/game/main.js" />
+        <option value="$PROJECT_DIR$/lib/game/entities/LevelButton.js" />
       </list>
     </option>
   </component>
@@ -116,7 +125,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -221,30 +229,9 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="HTML5_SquishyCat" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="HTML5_SquishyCat" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lib" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="game" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="entities" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -382,7 +369,11 @@
       <created>1373407827138</created>
       <updated>1373407827138</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="Stage Select">
+      <created>1373408617760</created>
+      <updated>1373408617760</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -450,7 +441,7 @@
     <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="Exit Button" />
+    <option name="LAST_COMMIT_MESSAGE" value="Stage Select" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -486,6 +477,7 @@
     <MESSAGE value="Butterfly" />
     <MESSAGE value="Level Complete and Title Card" />
     <MESSAGE value="Exit Button" />
+    <MESSAGE value="Stage Select" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -566,13 +558,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lib/game/entities/LevelButton.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="35" selection-start="159" selection-end="159" vertical-scroll-proportion="0.13496932">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/lib/game/entities/ExitLevelButton.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="26" column="42" selection-start="829" selection-end="829" vertical-scroll-proportion="-12.538462">
@@ -580,9 +565,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/lib/game/entities/LevelButton.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="31" selection-start="203" selection-end="203" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/lib/game/main.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="111" column="10" selection-start="3264" selection-end="3264" vertical-scroll-proportion="0.2525">
+        <state line="111" column="51" selection-start="3297" selection-end="3297" vertical-scroll-proportion="0.57875">
           <folding />
         </state>
       </provider>
